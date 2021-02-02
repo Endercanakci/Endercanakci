@@ -10,3 +10,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: CsGo - Netflix - Write Cod -  
 -->
+
+<p align="left"> <a href="https://twitter.com/endercanakci" target="blank"><img src="https://img.shields.io/twitter/follow/endercanakci?logo=twitter&style=for-the-badge" alt="endercanakci" /></a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Endercanakci&label=Profile%20views&color=0e75b6&style=flat" alt="Endercanakci" /> </p>
