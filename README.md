@@ -8,7 +8,7 @@
 - 💬 Ask me about...C#, Python
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: CsGo - Netflix - Write Cod -  
+- ⚡ Fun fact: CsGo - Netflix - Write Cod - Maths 
 -->
 
 <p align="left"> <a href="https://twitter.com/endercanakci" target="blank"><img src="https://img.shields.io/twitter/follow/endercanakci?logo=twitter&style=for-the-badge" alt="endercanakci" /></a>
