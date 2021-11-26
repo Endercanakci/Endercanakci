@@ -1,14 +1,14 @@
 <h1 align="center"> Welcome to my GitHup page :wave:</h1>
 <h2 align="center">I'm Ender Çanakcı .I'm a student in the Department of Electrical and Electronic Engineer.</h2>
 
-- 🔭 I’m currently working on...C#, Python
-- 🌱 I’m currently learning ...C#, Python
+- 🔭 I’m currently working on...C#, Python, JAVA
+- 🌱 I’m currently learning ...C#, Python, JAVA
 - 👯 I’m looking to collaborate on...
 - 🤔 I’m looking for help with...
-- 💬 Ask me about...C#, Python
+- 💬 Ask me about...C#, Python, JAVA
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: CsGo - Netflix - Write Cod - Maths 
+- ⚡ Fun fact: CsGo(games) - Netflix(movies) - Write Cod - Maths 
 -->
 
 <p align="left"> <a href="https://twitter.com/endercanakci" target="blank"><img src="https://img.shields.io/twitter/follow/endercanakci?logo=twitter&style=for-the-badge" alt="endercanakci" /></a>
