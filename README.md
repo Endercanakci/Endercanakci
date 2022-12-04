@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on C#, Python, JAVA, Go(Golang)
 - 💬 Ask me about C#, Python, JAVA, Go(Golang)
 - ⚡ Fun fact: CsGo(games) - Netflix(movies and series) - Write Cod - Maths - LOTR and Hobbit
--->
+- 📚 I’m currently studying Electrical and Electronics Engineering in Trakya Universty
 
 <p align="left"> <a href="https://twitter.com/endercanakci" target="blank"><img src="https://img.shields.io/twitter/follow/endercanakci?logo=twitter&style=for-the-badge" alt="endercanakci" /></a>
 
