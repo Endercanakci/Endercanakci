@@ -15,4 +15,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Endercanakci&label=Profile%20views&color=0e75b6&style=flat" alt="Endercanakci" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/ender-%C3%A7anakc%C4%B1-225936206/" target="blank"><img src="https://img.shields.io/follow/endercanakci?logo=&style=for-the-badge" alt="Linkedln: Ender ÇANAkcı" /></a>
+<p align="left"> <a href="https://www.linkedin.com/in/ender-%C3%A7anakc%C4%B1-225936206/" target="blank"><img src="https://img.shields.io/twitter/follow/endercanakci?logo=linkedln&style=for-the-badge" alt="Linkedln: Ender ÇANAKCI" /></a>
