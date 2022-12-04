@@ -15,4 +15,5 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Endercanakci&label=Profile%20views&color=0e75b6&style=flat" alt="Endercanakci" /> </p>
 
-https://www.linkedin.com/in/ender-%C3%A7anakc%C4%B1-225936206/
+https://www.linkedin.com/in/enderçanakcı
+
